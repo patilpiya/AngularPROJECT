@@ -16,12 +16,12 @@ export class AppComponent {
   firstname : string = 'piya';  
 
  //testcase 2
-  firstName1 = 'poonam';
+  firstName1 = 'piya';
   firstName2! : string  ;
  surName2 : any;
  surName : any = true;
  formTitle : string = 'Login Form...';
- studentName = 'Vishal';
+ studentName = 'shree';
  amount = '5600';
  isFavCity = false;
  myName = "Om";
